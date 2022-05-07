@@ -54,12 +54,12 @@ nav .navbar .logo {
 .menu li a {
   font-size: 17px;
   font-weight: 500;
-  color: #ff0000;
+  color: #2c3e50;
   text-decoration: none;
 }
 
 .menu li a:hover {
-  color: #ff0000;
+  color: #e84fd8;
 }
 
 .navbar .search-box {
@@ -76,9 +76,9 @@ nav .navbar .logo {
   width: 90%;
   height: 90%;
   padding: 0 10px 0 40px;
-  border: 2px solid #ff0000;
+  border: 2px solid #2c3e50;
   border-radius: 8px;
-  color: #ff0000;
+  color: #2c3e50;
   font-size: 18px;
   outline: none;
   opacity: 0.5;
@@ -90,8 +90,8 @@ nav .navbar .logo {
   left: 10px;
   padding: 0 5px 0 0;
   font-size: 20px;
-  color: #ff0000;
-  border-right: 2px solid #ff0000;
+  color: #2c3e50;
+  border-right: 2px solid #2c3e50;
   transform: translateY(-50%);
   opacity: 0.8;
 }
@@ -105,26 +105,26 @@ nav .navbar .logo {
 
 .content .text {
   font-size: 27px;
-  color: #ff0000;
+  color: #2c3e50;
 }
 
 .content .name {
   font-size: 75px;
   margin: -20px 0 0 -3px;
-  color: #ff0000;
+  color: #2c3e50;
 }
 
 .content .job {
   display: flex;
   font-size: 40px;
-  color: #ff0000;
+  color: #2c3e50;
 }
 
 .content .job .typing-text {
   margin-left: 10px;
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
-  border-right: 4px solid #ff0000;
+  border-right: 4px solid #de63ff;
   color: #ff0000;
   animation: typing 8s steps(38) infinite;
 }
@@ -153,7 +153,7 @@ nav .navbar .logo {
   border: none;
   border-radius: 6px;
   outline: none;
-  background: linear-gradient(ff0000, #ff0000 10%, #ff0000 100%);
+  background: linear-gradient(135deg, #9d4fe8 10%, #e84fd8 100%);
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -204,12 +204,12 @@ header .media-icons {
   margin-left: 8px 0;
   font-size: 20px;
   font-weight: 500;
-  color: #ff0000;
+  color: #2c3e50;
   opacity: 0.7;
   transition: all 0.3s ease;
 }
 .media-icons a:hover {
-  color: #ff0000;
+  color: #e84fd8;
   opacity: 1;
   transform: scale(1.1);
 }
