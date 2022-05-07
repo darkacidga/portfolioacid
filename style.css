@@ -50,8 +50,8 @@ header nav {
   margin-left: 10px;
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
-  border-right: 4px solid #5865F2;
-  color: #5865F2;
+  border-right: 4px solid #ff0000;
+  color: #ff0000;
   animation: typing 7s steps(28) infinite;
 }
 
