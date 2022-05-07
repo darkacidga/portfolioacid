@@ -54,7 +54,7 @@ nav .navbar .logo {
 .menu li a {
   font-size: 17px;
   font-weight: 500;
-  color: #2c3e50;
+  color: #ff0000;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ nav .navbar .logo {
   padding: 0 10px 0 40px;
   border: 2px solid #2c3e50;
   border-radius: 8px;
-  color: #2c3e50;
+  color: #ff0000;
   font-size: 18px;
   outline: none;
   opacity: 0.5;
@@ -90,7 +90,7 @@ nav .navbar .logo {
   left: 10px;
   padding: 0 5px 0 0;
   font-size: 20px;
-  color: #2c3e50;
+  color: #ff0000;
   border-right: 2px solid #2c3e50;
   transform: translateY(-50%);
   opacity: 0.8;
@@ -105,19 +105,19 @@ nav .navbar .logo {
 
 .content .text {
   font-size: 27px;
-  color: #2c3e50;
+  color: #ff0000;
 }
 
 .content .name {
   font-size: 75px;
   margin: -20px 0 0 -3px;
-  color: #2c3e50;
+  color: #ff0000;
 }
 
 .content .job {
   display: flex;
   font-size: 40px;
-  color: #2c3e50;
+  color: #ff0000;
 }
 
 .content .job .typing-text {
@@ -204,7 +204,7 @@ header .media-icons {
   margin-left: 8px 0;
   font-size: 20px;
   font-weight: 500;
-  color: #2c3e50;
+  color: #ff0000;
   opacity: 0.7;
   transition: all 0.3s ease;
 }
