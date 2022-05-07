@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0px;
   box-sizing: border-box;
+  background-color: #ec0f0f;
   font-family: "Poppins", sans-serif;
 }
 
@@ -126,7 +127,7 @@ nav .navbar .logo {
   overflow: hidden;
   border-right: 4px solid #ec0f0f;
   color: #ec0f0f;
-  animation: typing 8s steps(38) infinite;
+  animation: typing 8s steps(28) infinite;
 }
 
 @keyframes typing {
