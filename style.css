@@ -125,7 +125,7 @@ nav .navbar .logo {
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
   border-right: 4px solid #de63ff;
-  color: #de63ff;
+  color: #ff0000;
   animation: typing 8s steps(38) infinite;
 }
 
