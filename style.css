@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0px;
   box-sizing: border-box;
-  background-color: #040833;
+  background-color: #cc0000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -108,7 +108,7 @@ header .tagline {
   font-size: 20px;
   font-weight: 400;
   font-style: italic;
-  color: #5865F2;
+  color: #ff0000;
   cursor: pointer;
   transition: all 0.3s ease;
 }
