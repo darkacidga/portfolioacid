@@ -52,7 +52,7 @@ header nav {
   overflow: hidden;
   border-right: 4px solid #ff0000;
   color: #ff0000;
-  animation: typing 8s steps(38) infinite;
+  animation: typing 6s steps(28) infinite;
 }
 
 @keyframes typing {
@@ -60,7 +60,7 @@ header nav {
     width: 0ch;
   }
   50% {
-    width: 38ch;
+    width: 28ch;
   }
   100% {
     width: 0ch;
