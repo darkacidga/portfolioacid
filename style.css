@@ -126,7 +126,7 @@ nav .navbar .logo {
   overflow: hidden;
   border-right: 4px solid #de63ff;
   color: #de63ff;
-  animation: typing 5s steps(28) infinite;
+  animation: typing 9s steps(43) infinite;
 }
 
 @keyframes typing {
