@@ -124,7 +124,7 @@ nav .navbar .logo {
   margin-left: 10px;
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
-  border-right: 4px solid #de63ff;
+  border-right: 4px solid #ec0f0f;
   color: #ec0f0f;
   animation: typing 8s steps(38) infinite;
 }
