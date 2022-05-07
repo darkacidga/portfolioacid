@@ -51,7 +51,7 @@ header nav {
   white-space: nowrap; /* Put all in one single line */
   border-right: 4px solid #ff0000;
   color: #ff0000;
-  animation: typing 8s steps(28) infinite;
+  animation: typing 6s steps(30) infinite;
   overflow: hidden;
 }
 
