@@ -59,7 +59,7 @@ nav .navbar .logo {
 }
 
 .menu li a:hover {
-  color: #e84fd8;
+  color: #ff0000;
 }
 
 .navbar .search-box {
@@ -76,7 +76,7 @@ nav .navbar .logo {
   width: 90%;
   height: 90%;
   padding: 0 10px 0 40px;
-  border: 2px solid #2c3e50;
+  border: 2px solid #ff0000;
   border-radius: 8px;
   color: #ff0000;
   font-size: 18px;
@@ -91,7 +91,7 @@ nav .navbar .logo {
   padding: 0 5px 0 0;
   font-size: 20px;
   color: #ff0000;
-  border-right: 2px solid #2c3e50;
+  border-right: 2px solid #ff0000;
   transform: translateY(-50%);
   opacity: 0.8;
 }
@@ -124,7 +124,7 @@ nav .navbar .logo {
   margin-left: 10px;
   white-space: nowrap; /* Put all in one single line */
   overflow: hidden;
-  border-right: 4px solid #de63ff;
+  border-right: 4px solid #ff0000;
   color: #ff0000;
   animation: typing 8s steps(38) infinite;
 }
@@ -153,7 +153,7 @@ nav .navbar .logo {
   border: none;
   border-radius: 6px;
   outline: none;
-  background: linear-gradient(135deg, #9d4fe8 10%, #e84fd8 100%);
+  background: linear-gradient(ff0000, #ff0000 10%, #ff0000 100%);
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -182,7 +182,7 @@ header .tagline {
   font-size: 20px;
   font-weight: 400;
   font-style: italic;
-  color: #e84fd8;
+  color: #ff0000;
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -209,7 +209,7 @@ header .media-icons {
   transition: all 0.3s ease;
 }
 .media-icons a:hover {
-  color: #e84fd8;
+  color: #ff0000;
   opacity: 1;
   transform: scale(1.1);
 }
